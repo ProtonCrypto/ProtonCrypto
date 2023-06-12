@@ -12,3 +12,15 @@ Proton Crypto - это проект, который развивается из 
 * [⚙ Модуль API LV 2](https://github.com/ProtonCrypto/ProtonApiLV2)
 * [⚙ Бот для востановления](https://github.com/ProtonCrypto/ProtonWalletRecoveryBot)
 
+
+### 🏔 Туториалы
+
+* [⚙ Пополнение кошелька](https://github.com/ProtonCrypto/ProtonWalletAndroid)
+* [⚙ Подпись и проверка подписи](https://github.com/ProtonCrypto/ProtonWalletAndroid)
+* [⚙ Бэкап через бота в телеграмм](https://github.com/ProtonCrypto/ProtonWalletAndroid)
+
+
+### 🐿 Файлы
+
+* [⚙ Документация](https://docs.google.com/document/d/10s2UIK9BeEA7tBmN5uiDtBaFYsz0BBjrNg-y4Egt_gc/edit?usp=sharing)
+* [⚙ Презентация](https://www.canva.com/design/DAFjQjbStnY/_F-xu3yQIeHGmsXmKJDoJw/edit?utm_content=DAFjQjbStnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
