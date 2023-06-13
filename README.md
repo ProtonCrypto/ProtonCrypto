@@ -18,5 +18,3 @@ Proton Crypto - это проект, который развивается из 
 * [⚙ Презентация (ДОСТУПНО ТОЛЬКО С VPN)](https://www.canva.com/design/DAFjQjbStnY/_F-xu3yQIeHGmsXmKJDoJw/edit?utm_content=DAFjQjbStnY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * [⚙ Ролик](https://www.youtube.com/watch?v=jth3wxTvaek)
 
-
--> https://surfshark.com/ru <-
