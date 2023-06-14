@@ -9,6 +9,7 @@ Proton Crypto - это проект, который развивается из 
 
 * [⚙ Android приложение](https://github.com/ProtonCrypto/ProtonWalletAndroid)
 * [⚙ Сервер + бот](https://github.com/ProtonCrypto/ProtonApiLV2)
+* [⚙ Скачать приложение](https://github.com/ProtonCrypto/ProtonWalletAndroid/releases/download/v1.0/app-debug.apk)
 
 
 
