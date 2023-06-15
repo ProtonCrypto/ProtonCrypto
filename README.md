@@ -16,6 +16,6 @@ Proton Crypto - это проект, который развивается из 
 ### 🐿 Файлы
 
 * [⚙ Документация](https://docs.google.com/document/d/10s2UIK9BeEA7tBmN5uiDtBaFYsz0BBjrNg-y4Egt_gc/edit?usp=sharing)
-* [⚙ Презентация](https://github.com/ProtonCrypto/ProtonCrypto/files/11752721/Proton.Wallet.pdf)
+* [⚙ Презентация](https://github.com/ProtonCrypto/ProtonCrypto/files/11752802/Proton.Wallet.pdf)
 * [⚙ Ролик](https://www.youtube.com/watch?v=jth3wxTvaek)
 
